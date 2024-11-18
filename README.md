@@ -60,8 +60,8 @@
 Пришлось скачать библиотеку "numpy" и "gspread" (обязательно версии gspread==5.0.5, так как последняя версия не запускает код из-за ошибок)        // pip install gspread==5.0.5
 Результат:
 ![image](https://github.com/user-attachments/assets/26eed027-1a2a-4a30-b714-bbc1f52103e2)
-API key 1: AIzaSyCwXQ-OAa2cNb0x66nkTKjHnCATHllnh40
-API доступа: unityservicedatascience@unitydatascience-442113.iam.gserviceaccount.com
+- API key 1: AIzaSyCwXQ-OAa2cNb0x66nkTKjHnCATHllnh40
+- API доступа: unityservicedatascience@unitydatascience-442113.iam.gserviceaccount.com
 
 ## Задание 3
 ### Использование данных из таблицы на сцене движка Unity.
