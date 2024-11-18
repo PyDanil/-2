@@ -68,7 +68,7 @@
 Скачиваем файлы скриптов звука и пишем свой скрипт в точности как в самом workshop2 (за исключением ссылки на google-таблицу - *sheet*)
 В итоге получаем данный результат: 
 ![image](https://github.com/user-attachments/assets/fa381b7a-9f52-430b-bf09-17d41f932ee4)
-
+- Ссылка на таблицу sheets: https://sheets.googleapis.com/v4/spreadsheets/1COW2tIigGNMAqUer2QIt5WjKy1ItbKmjJ6sHerKEihs/values/%D0%9B%D0%B8%D1%81%D1%821?key=AIzaSyCwXQ-OAa2cNb0x66nkTKjHnCATHllnh40
 
 Ход работы:
 - Шаблон отчета по лабораторной работе – link
